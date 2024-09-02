@@ -10,7 +10,7 @@ Código curso: 0302910
 
 Programa
 
-DESCRIPCION
+DESCRIPCIÓN
 
 Ofrrecer a los estudiantes una introducción a la física involucrada en la evolución del Universo en sus etapas iniciales.  El curso pretende cubrir los aspectos más fundamentales del modelo cosmológico estándar a la luz de los resultados experimentales mrecientees en las áreas de la física de altas energías, física de astropartículas y cosmología.    
 
