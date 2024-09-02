@@ -1,3 +1,10 @@
+UNIVERSO TEMPRANO 
+
+Instituto de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia
+Programa(s) académico(s) en los cuales se ofrece el curso: Física y Astronomía
+Vigencia: 2024-2
+Código curso: 0302910
+
 Programa
 
 DESCRIPCION
