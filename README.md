@@ -4,7 +4,7 @@ Instituto de Física, Facultad de Ciencias Exactas y Naturales, Universidad de A
 
 Programa(s) académico(s) en los cuales se ofrece el curso: Física y Astronomía
 
-Vigencia: 2024-2
+Vigencia: 2025-1
 
 Código curso: 0302910
 
@@ -12,7 +12,7 @@ Programa
 
 DESCRIPCIÓN
 
-Ofrrecer a los estudiantes una introducción a la física involucrada en la evolución del Universo en sus etapas iniciales.  El curso pretende cubrir los aspectos más fundamentales del modelo cosmológico estándar a la luz de los resultados experimentales mrecientees en las áreas de la física de altas energías, física de astropartículas y cosmología.    
+Ofrecer a los estudiantes una introducción a la física involucrada en la evolución del Universo en sus etapas iniciales.  El curso pretende cubrir los aspectos más fundamentales del modelo cosmológico estándar a la luz de los resultados experimentales mrecientees en las áreas de la física de altas energías, física de astropartículas y cosmología.    
 
 JUSTIFICACIÓN
 
